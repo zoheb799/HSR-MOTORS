@@ -1,0 +1,160 @@
+.container-fluid {
+    background-color: white;
+}
+.brands {
+    margin: 150px auto;
+    margin-left: 57px;
+    margin-top: 110px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+}
+.offers {
+    background: radial-gradient(#fff, #fff);
+    padding: 30px 0;
+    margin-top: 80px;
+
+}
+
+.col-2 .offers-img {
+    padding: 50px;
+
+}
+
+.col-2 {
+    flex-basis: 50%;
+    min-width: 280px;
+    margin: auto;
+
+}
+.hero {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+}
+.fluid {
+margin: auto;
+margin-left: 5%;
+}
+.col-2 {
+
+    max-width: 100%;
+    padding: 50px 0;
+}
+
+.col-2 h1 {
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+}
+
+.btnn {
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 35px;
+    transition: background 0.5s;
+    
+    
+}
+
+a.btnn:hover {
+    background: red;
+}
+
+.col-4 {
+    width: 350px;
+}
+
+.col-4 img {
+    width: 100%;
+    cursor: pointer;
+    
+
+}
+
+.col-4 img:hover {
+    filter: grayscale(0);
+    transform: translateY(-10px);
+}
+ a {
+    text-decoration: none;
+ }
+
+
+.footer {
+    background-color: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+    margin-top: 25px;
+}
+
+.footer p {
+    color: #8a8a8a;
+
+}
+.footer a {
+    color: #8a8a8a;
+}
+
+.footer h3 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.footer-1,
+.footer-2,
+.footer-3,
+.footer-4 {
+    min-width: 250px;
+    margin-bottom: 20px;
+   
+}
+
+.footer-1 {
+    flex-basis: 30%;
+
+}
+
+.footer-2 {
+    flex: 1;
+    text-align: center;
+}
+
+.footer-2 img {
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+.footer-3,
+.footer-4 {
+    flex-basis: 12%;
+    text-align: center;
+}
+
+
+.d-block {
+    height: 350px;
+    width: 600px;
+    margin: auto;
+
+}
+h1 {
+    text-align: center;
+}
+.image {
+    margin: auto;
+}
+body {
+    margin: auto;
+}
